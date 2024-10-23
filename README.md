@@ -76,10 +76,6 @@ git clone (https://github.com/garimarajpal/Ecom_website_testing_selenium)
 
 Contributions are welcome! If you'd like to enhance the project, please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. For details, please refer to the [LICENSE](LICENSE) file.
-
 ## Acknowledgments
 
 - [WordPress](https://wordpress.org/)
