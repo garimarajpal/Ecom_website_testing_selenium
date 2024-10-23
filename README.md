@@ -71,6 +71,8 @@ git clone (https://github.com/garimarajpal/Ecom_website_testing_selenium)
 1. Open Postman and import the API collection provided in the project.
 2. Run the tests to verify the functionality of various endpoints.
 
+Screenshot of a Postman Request
+![postman_get_request](https://github.com/user-attachments/assets/a6dab53c-a064-455e-ae53-3bc040f19fc7)
 
 ## Contributing
 
